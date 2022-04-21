@@ -1,7 +1,7 @@
 [Info]
 EID=gdp#
-Desc=Official Firmware Update 6.61
-Size=1195
+Desc=PSP Update ver 6.61
+Size=32581
 Code=UPDATE
 [File]
 C=http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP
