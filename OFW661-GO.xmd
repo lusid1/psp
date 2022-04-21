@@ -1,0 +1,7 @@
+[Info]
+EID=gdp#
+Desc=PSP-Go Update ver 6.61
+Size=32581
+Code=UPDATE
+[File]
+C=http://du01.psp.update.playstation.org/update/psp/image2/us/2014_1212_fd0f7d0798b4f6e6d32ef95836740527/EBOOT.PBP
