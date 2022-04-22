@@ -1,12 +1,12 @@
 [Info]
 EID=ddp#
-Desc=Basic Plugin Bundle
+Desc=Basic Plugin Bundle part 1
 Size=23
 Code=../../seplugins
-FName=cdda_enabler.prx
-AName=POPS.TXT
+FName=POPS.TXT
+AName=cdda_enabler.prx
 NPage=HTTP://psp.lusidgames.com/seplugins/download2.xpd
 
 [File]
-C=HTTP://psp.lusidgames.com/seplugins/cdda_enabler.prx
-A=HTTP://psp.lusidgames.com/seplugins/POPS.TXT
+C=HTTP://psp.lusidgames.com/seplugins/POPS.TXT
+A=HTTP://psp.lusidgames.com/seplugins/cdda_enabler.prx
