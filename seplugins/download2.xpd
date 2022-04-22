@@ -1,12 +1,11 @@
 [Info]
 EID=ddp#
-Desc=Basic Plugin Bundle part 2
+Desc=NPDRM Free v7.2
 Size=20
 Code=../../seplugins
 FName=npdrm_free.prx
-AName=VSH.TXT
 NPage=HTTP://psp.lusidgames.com/seplugins/download3.xpd
 
 [File]
 C=HTTP://psp.lusidgames.com/seplugins/npdrm_free.prx
-A=HTTP://psp.lusidgames.com/seplugins/VSH.TXT
+
