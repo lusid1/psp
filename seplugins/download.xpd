@@ -1,1 +1,12 @@
-test
+[Info]
+EID=ddp#
+Desc=Basic Plugin Bundle
+Size=23
+Code=../../seplugins
+FName=cdda_enabler.prx
+AName=POPS.TXT
+NPage=HTTP://psp.lusidgames.com/CIPL_Flasher/download2.xpd
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/cdda_enabler.prx
+A=HTTP://psp.lusidgames.com/seplugins/POPS.TXT
