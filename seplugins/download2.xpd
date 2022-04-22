@@ -5,7 +5,7 @@ Size=20
 Code=../../seplugins
 FName=npdrm_free.prx
 AName=VSH.TXT
-NPage=HTTP://psp.lusidgames.com/CIPL_Flasher/download3.xpd
+NPage=HTTP://psp.lusidgames.com/seplugins/download3.xpd
 
 [File]
 C=HTTP://psp.lusidgames.com/seplugins/npdrm_free.prx
