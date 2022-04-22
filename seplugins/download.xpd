@@ -1,7 +1,7 @@
 [Info]
 EID=ddp#
 Desc=CDDA_Enabler V2
-Size=23
+Size=2
 Code=../../seplugins
 FName=cdda_enabler.prx
 NPage=HTTP://psp.lusidgames.com/seplugins/download2.xpd
