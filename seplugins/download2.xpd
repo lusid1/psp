@@ -1,7 +1,7 @@
 [Info]
 EID=ddp#
 Desc=NPDRM Free v7.2
-Size=20
+Size=18
 Code=../../seplugins
 FName=npdrm_free.prx
 NPage=HTTP://psp.lusidgames.com/seplugins/download3.xpd
