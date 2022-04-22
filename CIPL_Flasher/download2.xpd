@@ -1,9 +1,11 @@
 [Info]
 EID=gdp#
 Desc=CIPL_Flasher 661_PRO-C2_14-02-2015
-Size=534
+Size=6
 Code=CIPL_Flasher
-FName=EBOOT.PBP
+FName=ipl_update.prx
+AName=kpspident.prx
 
 [File]
-C=HTTP://psp.lusidgames.com/CIPL_Flasher/EBOOT.PBP
+C=HTTP://psp.lusidgames.com/CIPL_Flasher/ipl_update.prx
+A=HTTP://psp.lusidgames.com/CIPL_Flasher/kpspident.prx
