@@ -1,9 +1,10 @@
 [Info]
 EID=ddp#
-Desc=Basic Plugin Bundle
+Desc=GAME.TXT
 Size=1
 Code=../../seplugins
 FName=GAME.TXT
+NPage=HTTP://psp.lusidgames.com/seplugins/download4.xpd
 
 [File]
 C=HTTP://psp.lusidgames.com/seplugins/GAME.TXT
