@@ -4,7 +4,6 @@ Desc=VSH.TXT
 Size=1
 Code=../../seplugins
 FName=VSH.TXT
-NPage=HTTP://psp.lusidgames.com/seplugins/download4.xpd
 
 [File]
 C=HTTP://psp.lusidgames.com/seplugins/VSH.TXT
