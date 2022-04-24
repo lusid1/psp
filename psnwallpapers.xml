@@ -10,7 +10,6 @@
 <description>LocoRoco_Wallpaper2-PSP.jpg</description>
 <pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
 <enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTfxl40yn3lAbthMVJwGxl/LocoRoco_Wallpaper2-PSP.jpg" type="image/jpeg"/>
-<media:thumbnail url="http://fj00.psp.update.playstation.org/media/MyFunnyDog_tn.jpg" width="60" height="45"/>
 </item>
 <item>
 <title>LocoRoco_Wallpaper1-PSP.jpg</title>
@@ -26,14 +25,35 @@
 <pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
 <enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTFcJ0hrjToOKl1gqq4uXB/LocoRocoHoliday_Wallpaper-PSP.jpg" type="image/jpeg"/>
 </item>
+
 <item>
-<title>My Funny Dog</title>
-<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
-<description>My Funny Funny Dog</description>
-<author>K. Momo</author>
-<pubDate>Thu, 10 Aug 2006 15:00:00 +0900</pubDate>
-<enclosure url="http://fj00.psp.update.playstation.org/media/MyFunnyDog.jpg" type="image/jpeg"/>
-<media:thumbnail url="http://fj00.psp.update.playstation.org/media/MyFunnyDog_tn.jpg" width="60" height="45"/>
+<title>GodofWarCOO_Wallpaper1.jpg</title>
+<link>http://psp.lusidgames.com/index.html</link>
+<description>GodofWarCOO_Wallpaper1.jpg</description>
+<pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98713_00/FREE_CONTENTdD7mLOpgrkVV0SpydKmi/GodofWarCOO_Wallpaper1.jpg" type="image/jpeg"/>
 </item>
+<item>
+<title>GodofWarCOO_Wallpaper2.jpg</title>
+<link>http://psp.lusidgames.com/index.html</link>
+<description>GodofWarCOO_Wallpaper2.jpg</description>
+<pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98713_00/FREE_CONTENTfWgsWyT1PoU5a4tIHGbH/GodofWarCOO_Wallpaper2.jpg" type="image/jpeg"/>
+</item>
+<item>
+<title>GodofWarCOO_Wallpaper3.jpg</title>
+<link>http://psp.lusidgames.com/index.html</link>
+<description>GodofWarCOO_Wallpaper3.jpg</description>
+<pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98713_00/FREE_CONTENTkdLC30B3S1syGvt1a1mV/GodofWarCOO_Wallpaper3.jpg" type="image/jpeg"/>
+</item>
+<item>
+<title>GodofWarCOO_Wallpaper4.jpg</title>
+<link>http://psp.lusidgames.com/index.html</link>
+<description>GodofWarCOO_Wallpaper4.jpg</description>
+<pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98713_00/FREE_CONTENTTkRPLe4DCrxu1fGYIUQM/GodofWarCOO_Wallpaper4.jpg" type="image/jpeg"/>
+</item>
+
 </channel>
 </rss>
