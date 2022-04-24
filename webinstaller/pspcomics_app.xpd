@@ -6,6 +6,6 @@ Code=NPEG00012
 FName=EBOOT.PBP
 AName=data.zip
 [File]
-C=http://psp.lusidgames.net/webinstaller/EBOOT.PBP
-A=http://psp.lusidgames.net/webinstaller/pspcomics_app.zip
+C=http://psp.lusidgames.com/webinstaller/EBOOT.PBP
+A=http://psp.lusidgames.com/webinstaller/pspcomics_app.zip
 
