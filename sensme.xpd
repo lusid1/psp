@@ -1,0 +1,8 @@
+[Info]
+EID=adp#
+Desc=Sensme 1.50
+Size=14036
+Code=NPIA00013
+[File]
+C=http://sensme.dl.playstation.net/sensme/01.50/EBOOT.PBP
+A=http://sensme.dl.playstation.net/sensme/01.50/SENSME.DAT
