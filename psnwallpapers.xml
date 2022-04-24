@@ -1,0 +1,32 @@
+<rss version="2.0">
+<channel>
+<title>PSN Wallpapers</title>
+<link>http://psp.lusidgames.com/wallpapers</link>
+<description>Contains PSP Wallpapers from the Playstation Network</description>
+<language>en-us</language>
+<image>
+<url>
+http://web.archive.org/web/20081126144150/http://www.playstation.com/manual/psp/rss/sample_ch.jpg
+</url>
+<title>PSN Wallpapers</title>
+</image>
+<item>
+<title>LocoRoco_Wallpaper2-PSP.jpg</title>
+<link>http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTfxl40yn3lAbthMVJwGxl/LocoRoco_Wallpaper2-PSP.jpg</link>
+<description>LocoRoco_Wallpaper2-PSP.jpg</description>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTfxl40yn3lAbthMVJwGxl/LocoRoco_Wallpaper2-PSP.jpg" type="image/jpeg"/>
+</item>
+<item>
+<title>LocoRoco_Wallpaper1-PSP.jpg</title>
+<link>http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTCs0qVfADl2QmvGbXkyLi/LocoRoco_Wallpaper1-PSP.jpg</link>
+<description>LocoRoco_Wallpaper1-PSP.jpg</description>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTCs0qVfADl2QmvGbXkyLi/LocoRoco_Wallpaper1-PSP.jpg" type="image/jpeg"/>
+</item>
+<item>
+<title>LocoRocoHoliday_Wallpaper-PSP.jpg</title>
+<link>http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTFcJ0hrjToOKl1gqq4uXB/LocoRocoHoliday_Wallpaper-PSP.jpg</link>
+<description>LocoRocoHoliday_Wallpaper-PSP.jpg</description>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98662_00/FREE_CONTENTFcJ0hrjToOKl1gqq4uXB/LocoRocoHoliday_Wallpaper-PSP.jpg" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
