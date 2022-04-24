@@ -1,0 +1,69 @@
+<rss version="2.0">
+<channel>
+<title>Sample Channel</title>
+<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
+<description>Contains sample content</description>
+<language>en-us</language>
+<image>
+<url>
+http://web.archive.org/web/20081126144150/http://www.playstation.com/manual/psp/rss/sample_ch.jpg
+</url>
+<title>Sample Channel</title>
+</image>
+<copyright>
+© 2005 Sony Computer Entertainment Inc. All rights reserved.
+</copyright>
+<item>
+<title>HOUSE SAMPLE 1</title>
+<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
+<description>HOUSE SAMPLE 1 / PSP Mix</description>
+<author>Noburo Masuda</author>
+<pubDate>Tue, 29 Nov 2005 15:00:00 +0900</pubDate>
+<enclosure url="http://fj00.psp.update.playstation.org/media/HOUSE_SAMPLE_1.mp3" type="audio/mp3"/>
+</item>
+<item>
+<title>JAZZ FUSION SAMPLE 1</title>
+<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
+<description>JAZZ FUSION SAMPLE 1 / PSP Mix</description>
+<author>Noburo Masuda</author>
+<pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
+<enclosure url="http://fj00.psp.update.playstation.org/media/JAZZ_FUSION_SAMPLE_1.mp3" type="audio/mp3"/>
+</item>
+<item>
+<title>Sample Video Clip</title>
+<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
+<description>Sample Clip for RSS ch</description>
+<author>Sony Computer Entertainment Inc.</author>
+<pubDate>Thu, 27 Jul 2006 15:00:00 +0900</pubDate>
+<enclosure url="http://fj00.psp.update.playstation.org/media/SampleVideoClip.mp4" type="video/mp4"/>
+<media:thumbnail url="http://fj00.psp.update.playstation.org/media/SampleVideoClip_tn.jpg" width="60" height="45"/>
+</item>
+<item>
+<title>My Sweet Cat</title>
+<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
+<description>My Sweet Cat for RSS ch</description>
+<author>T. Marine</author>
+<pubDate>Thu, 27 Jul 2006 15:00:00 +0900</pubDate>
+<enclosure url="http://fj00.psp.update.playstation.org/media/MySweetCat.jpg" type="image/jpeg"/>
+<media:thumbnail url="http://fj00.psp.update.playstation.org/media/MySweetCat_tn.jpg" width="60" height="45"/>
+</item>
+<item>
+<title>My Funny Dog</title>
+<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
+<description>My Funny Funny Dog</description>
+<author>K. Momo</author>
+<pubDate>Thu, 10 Aug 2006 15:00:00 +0900</pubDate>
+<enclosure url="http://fj00.psp.update.playstation.org/media/MyFunnyDog.jpg" type="image/jpeg"/>
+<media:thumbnail url="http://fj00.psp.update.playstation.org/media/MyFunnyDog_tn.jpg" width="60" height="45"/>
+</item>
+<item>
+<title>My Little Rabbit</title>
+<link>http://web.archive.org/web/20070312024830/https://www.playstation.com/manual/psp/rss/index.html</link>
+<description>My Little Little Rabbit</description>
+<author>M. Clair</author>
+<pubDate>Thu, 10 Aug 2006 15:00:00 +0900</pubDate>
+<enclosure url="http://fj00.psp.update.playstation.org/media/MyLittleRabbit.jpg" type="image/jpeg"/>
+<media:thumbnail url="http://fj00.psp.update.playstation.org/media/MyLittleRabbit_tn.jpg" width="60" height="45"/>
+</item>
+</channel>
+</rss>
