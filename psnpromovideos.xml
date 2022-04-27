@@ -1,0 +1,24 @@
+<rss version="2.0">
+<channel>
+<title>PSN Promo Videos</title>
+<link>http://psp.lusidgames.com/index.html</link>
+<description>Promotional Videos from the Playstation Network</description>
+<language>en-us</language>
+
+<item>
+<title>PSP_FeatureVideo-PSP</title>
+<link>http://psp.lusidgames.com/index.html</link>
+<pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/NPUS00001_00/FREE_CONTENTb4QF9ABpqW3r4GxdOy5g/PSP_FeatureVideo-PSP.mp4" type="video/mp4"/>
+</item>
+
+<item>
+<title>Cars2TheVideoGamePSP_Trailer-PSP.mp4</title>
+<link>http://psp.lusidgames.com/index.html</link>
+<pubDate>Tue, 29 Nov 2005 14:00:00 +0900</pubDate>
+<enclosure url="http://poseidon.dl.playstation.net/cdn/UP9000/UCUS98766_00/FREE_CONTENTtLcjVCJLHFBhuSU5xUOa/Cars2TheVideoGamePSP_Trailer-PSP.mp4" type="video/mp4"/>
+</item>
+
+</channel>
+</rss>
+
