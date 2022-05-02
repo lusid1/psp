@@ -1,0 +1,7 @@
+[Info]
+EID=gdp#
+Desc=PSP Update ver 6.60
+Size=32581
+Code=UPDATE
+[File]
+C=http://du01.psp.update.playstation.org/update/psp/image/us/2011_0810_2ca64d59dcf48f45fb99b400a586b395/EBOOT.PBP
