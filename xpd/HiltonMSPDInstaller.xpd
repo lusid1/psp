@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=Hilton Ultimate Team Play MSPD Installer
+Size=20480
+Code=HiltonMSPDInstaller
+FName=EBOOT.PBP
+AName=data.zip
+
+[File]
+C=http://lusid.net/psp/HiltonMSPDInstaller/EBOOT.PBP
+A=http://lusid.net/psp/HiltonMSPDInstaller/data.zip
