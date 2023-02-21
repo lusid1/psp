@@ -4,7 +4,7 @@ Desc=CDDA_Enabler V2
 Size=2
 Code=../../seplugins
 FName=cdda_enabler.prx
-NPage=HTTP://psp.lusidgames.com/seplugins/download2.xpd
+NPage=HTTP://psp.lusidgames.com/seplugins/download1.xpd
 
 [File]
 C=HTTP://psp.lusidgames.com/seplugins/cdda_enabler.prx
