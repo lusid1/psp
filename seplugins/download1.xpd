@@ -1,0 +1,10 @@
+[Info]
+EID=ddp#
+Desc=NPLoader Mod v1.0
+Size=18
+Code=../../seplugins
+FName=nploader_mod.prx
+NPage=HTTP://psp.lusidgames.com/seplugins/download2.xpd
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/nploader_mod.prx
