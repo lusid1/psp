@@ -1,0 +1,9 @@
+[Info]
+EID=ddp#
+Desc=PLUGINS.TXT (PGP-Go)
+Size=1
+Code=../../seplugins
+FName=PLUGINS.TXT
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/PLUGINS_GO.TXT

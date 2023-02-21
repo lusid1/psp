@@ -1,0 +1,5 @@
+all, ef0:/seplugins/npdrm_free_mod.prx, on
+game, ef0:/seplugins/nploader_mod.prx, on
+pops, ef0:/seplugins/cdda_enabler.prx, on
+
+

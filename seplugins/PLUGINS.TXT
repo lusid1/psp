@@ -1,3 +1,4 @@
-pops,ms0:/seplugins/cdda_enabler.prx,1
-all,ms0:/seplugins/npdrm_free.prx,1
+all, ms0:/seplugins/npdrm_free_mod.prx, on
+game, ms0:/seplugins/nploader_mod.prx, on
+pops, ms0:/seplugins/cdda_enabler.prx, on
 
