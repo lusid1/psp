@@ -1,11 +1,11 @@
 [Info]
 EID=ddp#
-Desc=NPDRM Free v7.2
+Desc=NPDRM Free Mod v7.3
 Size=18
 Code=../../seplugins
-FName=npdrm_free.prx
+FName=npdrm_free_mod.prx
 NPage=HTTP://psp.lusidgames.com/seplugins/download3.xpd
 
 [File]
-C=HTTP://psp.lusidgames.com/seplugins/npdrm_free.prx
+C=HTTP://psp.lusidgames.com/seplugins/npdrm_free_mod.prx
 
