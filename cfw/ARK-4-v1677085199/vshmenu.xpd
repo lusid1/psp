@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Advanced VSH Menu 
+Size=1079
+Code=../SAVEDATA/ARK_01234
+
+[File]
+C=http://psp.lusidgames.com/cfw/ARK-4-v1677085199/VSHMENU.PRX
+
