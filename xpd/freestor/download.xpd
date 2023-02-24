@@ -3,9 +3,9 @@ EID=gdp#
 Desc=FREESTOR
 Size=2187
 Code=FREESTORINST
-FName=EBOOT.PBP
-AName=data.zip
+AName=EBOOT.PBP
+CName=data.zip
 
 [File]
-C=http://psp.lusidgames.com/webinstaller/EBOOT.PBP
-A=http://psp.lusidgames.com/xpd/freestor/FREESTOR.zip
+A=http://psp.lusidgames.com/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/freestor/FREESTOR.zip
