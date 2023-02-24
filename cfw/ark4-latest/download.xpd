@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=ARK4 Installer
+Size=2100
+Code=ARK4Install
+FName=EBOOT.PBP
+AName=data.zip
+
+[File]
+C=http://psp.lusidgames.com/cfw/ark4-latest/EBOOT.PBP
+A=http://psp.lusidgames.com/cfw/ark4-latest/data.zip
