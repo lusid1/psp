@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=FREESTOR
+Size=21870
+Code=FREESTORINST
+FName=EBOOT.PBP
+AName=data.zip
+
+[File]
+C=http://psp.lusid.net/webinstaller/EBOOT.PBP
+A=http://psp.lusid.net/xpd/freestor/FREESTOR.zip
