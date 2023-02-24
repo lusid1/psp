@@ -4,7 +4,7 @@ Desc=FREESTOR
 Size=2187
 Code=FREESTORINST
 AName=EBOOT.PBP
-CName=data.zip
+FName=data.zip
 
 [File]
 A=http://psp.lusidgames.com/webinstaller/EBOOT.PBP
