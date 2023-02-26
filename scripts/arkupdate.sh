@@ -1,3 +1,7 @@
+# Updates the ark installer data.zip
+# run from the parent of the psp repo directory
+# ./psp/scripts/arkupdate.sh
+#
 mv ARK4.zip ARK4.zip.old
 wget https://github.com/PSP-Archive/ARK-4/releases/latest/download/ARK4.zip
 if ! (cmp ARK4.zip ARK4.zip.old); then 
