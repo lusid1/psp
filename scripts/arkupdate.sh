@@ -19,8 +19,8 @@ if ! (cmp ARK4.zip ARK4.zip.old); then
   cp data.zip psp/cfw/ark4-latest/
   cp ark4/AdvancedVSH/VSHMENU.PRX psp/cfw/ark4-latest/
   cd psp
-  git add psp/cfw/ark-latest/data.zip
-  git add psp/cfw/ark-latest/VSHMENU.PRX
+  git add cfw/ark-latest/data.zip
+  git add cfw/ark-latest/VSHMENU.PRX
   git commit -m "Ark4 update automation"
   git push
   cd ..
