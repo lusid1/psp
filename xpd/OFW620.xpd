@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=PSP Update ver 6.20
+Size=32581
+Code=UPDATE
+FName=EBOOT.PBP
+[File]
+C=http://archive.org/download/psp_ofw_firmwares/PSP/620.PBP
