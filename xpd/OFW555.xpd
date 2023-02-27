@@ -1,8 +1,0 @@
-[Info]
-EID=gdp#
-Desc=PSP Update ver 5.55
-Size=32581
-Code=UPDATE
-FName=EBOOT.PBP
-[File]
-C=http://archive.org/download/psp_ofw_firmwares/PSP/555.PBP
