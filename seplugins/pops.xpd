@@ -1,0 +1,9 @@
+[Info]
+EID=ddp#
+Desc=POPS.TXT
+Size=1
+Code=../../seplugins
+FName=POPS.TXT
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/POPS.TXT
