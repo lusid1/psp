@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=6.60 LME v1.8
+Size=1195
+Code=LME_Install
+[File]
+C=http://allinstallforum.com/downloads/LME_Install/data.zip
+A=http://allinstallforum.com/downloads/All_Install/EBOOT.PBP
