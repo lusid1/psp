@@ -1,0 +1,55 @@
+# Config file
+
+# The string to be displayed on the HOME screen.
+# %% = %, \ = Newline.
+[format] = %year %weekday %month/%day %hour12:%min:%sec %batpercent%%(%batlifehour:%batlifemin)
+
+# Put string to the standard position.
+# 1 = Enable, 0 = Disable.
+# If enabled, x_pos, y_pos, align_right and hide_battery_icon is disabled.
+[set_standard_pos] = 0
+
+# X-axis position of the display position.
+[x_pos] = 0
+
+# Y-axis position of the display position.
+[y_pos] = 35
+
+# The position of a character string can be specified.
+# 0 = Disable, 1 = Right, 2 = Center.
+# If enabled, x_pos is disabled.
+[alignment] = 1
+
+# Hide the battery icon.
+# 1 = Enable, 0 = Disable.
+[hide_battery_icon] = 0
+
+# A volume bar is hidden 3 seconds after pushing a button.
+# It cannot use in PSP-GO.
+# 1 = Enable, 0 = Disable.
+[hide_volume_bar] = 1
+
+# Specify the name of the day.
+[week]
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
+# Specify the name of the month.
+[month]
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
