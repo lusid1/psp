@@ -1,11 +1,11 @@
 [Info]
 EID=ddp#
-Desc=Dayviewer_game v7.1
+Desc=Dayviewer_game v7.1.
 Size=22
 Code=../../seplugins
 FName=dayviewer_game.prx
 
-NPage=HTTP://psp.lusidgames.com/seplugins/dayviewer_game_conf.txt
+NPage=HTTP://psp.lusidgames.com/seplugins/dayviewer_game_conf.xpd
 
 [File]
 C=HTTP://psp.lusidgames.com/seplugins/dayviewer_game.prx
