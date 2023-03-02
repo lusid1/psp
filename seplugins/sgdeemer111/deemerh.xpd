@@ -3,7 +3,7 @@ EID=ddp#
 Desc=SGDeemer 1.11 
 Size=18
 Code=../../seplugins
-FName=deemerh.prx.prx
+FName=deemerh.prx
 
 [File]
 C=HTTP://psp.lusidgames.com/seplugins/sgdeemer111/deemerh.prx
