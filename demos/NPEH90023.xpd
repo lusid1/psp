@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=METAL GEAR SOLID PEACE WALKER DEMO-OPS
+Size=102600
+Code=NPEH90023
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEH90023/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPEH90023/DOCUMENT.DAT
+
