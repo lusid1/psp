@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Tales of Phantasia Narikiri Dungeon X (DEMO)
+Size=75516
+Code=NPJH90130
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/NPJH90130_Demo/NPJH90130.zip/NPJH90130%2FEBOOT.PBP
+A=http://archive.org/download/NPJH90130_Demo/NPJH90130.zip/NPJH90130%2FDOCUMENT.DAT
+
+

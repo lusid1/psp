@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Qruton (Numblast) [Demo]
+Size=27000
+Code=NPEG90014
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEG90014/EBOOT.PBP
+
+
+

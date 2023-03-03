@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=PixelJunk Monsters Deluxe (Demo)
+Size=12000
+Code=NPEG90015
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEG90015/EBOOT.PBP

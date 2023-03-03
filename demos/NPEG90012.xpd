@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Loco Roco 2 (demo)
+Size=67400
+Code=NPEG90012
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEG90012/EBOOT.PBP
+
