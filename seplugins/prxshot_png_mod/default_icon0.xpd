@@ -1,0 +1,9 @@
+[Info]
+EID=ddp#
+Desc=prxshot_png_mod (3 of 3)
+Size=22
+Code=../../seplugins
+FName=default_icon0.png
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/prxshot_png_mod/default_icon0.png
