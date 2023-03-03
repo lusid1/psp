@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=Popsloader 4i Installer
+Size=2187
+Code=popsloader4i
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://archive.org/download/popsloader_4i/popsloader_4i.zip
