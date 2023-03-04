@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Metal Gear Solid Peacewalker
+Size=155211
+Code=NPJH90063
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90063/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90063/DOCUMENT.DAT

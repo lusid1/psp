@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Mercury Meltdown
+Size=6520
+Code=UCJS10043
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCJS10043/EBOOT.PBP

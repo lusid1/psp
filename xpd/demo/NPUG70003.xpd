@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=SOCOM Tactical Strike Demo
+Size=426524
+Code=NPUG70003
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPUG70003/EBOOT.PBP

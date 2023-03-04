@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Dead or Alive Paradise
+Size=47042
+Code=NPJH90110
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90110/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90110/DOCUMENT.DAT

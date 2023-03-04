@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Valkyria Chronicles 3
+Size=150000
+Code=NPJH90156
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90156/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90156/DOCUMENT.DAT

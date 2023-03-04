@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Ace Combat X Joint Assault
+Size=120122
+Code=NPJH90123
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90123/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90123/DOCUMENT.DAT

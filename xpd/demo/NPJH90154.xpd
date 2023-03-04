@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Yakuza: Black Panther
+Size=177000
+Code=NPJH90154
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90154/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90154/DOCUMENT.DAT

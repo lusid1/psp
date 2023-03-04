@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=World Tour Soccer '06
+Size=17832
+Code=UCUS98631
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98631/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCUS98631/data.drm

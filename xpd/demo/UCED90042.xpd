@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=SOCOM: Fireteam Bravo 2
+Size=5660
+Code=UCED90042
+
+[File]
+C=http://apps.curtrostudios.com/pspdemos/UCED90042/EBOOT.PBP

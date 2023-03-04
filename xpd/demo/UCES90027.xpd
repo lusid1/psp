@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=GO! EDIT Part 1 of 4
+Size=81457
+Code=UCES90027
+NPage=http://apps.curtrostudios.com/pspdemos/xpd/more/UCES90027-2.xpd
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCES90027/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCES90027/data_es_pkb.drm

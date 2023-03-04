@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Yakuza: Black Panther 2
+Size=246000
+Code=NPJH90274
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90274/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90274/DOCUMENT.DAT

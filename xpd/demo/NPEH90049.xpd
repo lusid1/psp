@@ -1,12 +1,8 @@
 [Info]
 EID=gdp#
-Desc=Naruto Shippuden Kizuna Drive [Demo]
-Size=36300
+Desc=Naruto Kizuna Drive
+Size=37165
 Code=NPEH90049
-FName=EBOOT.PBP
-
 
 [File]
 C=http://archive.org/download/PSPDemoArchive/NPEH90049/EBOOT.PBP
-
-

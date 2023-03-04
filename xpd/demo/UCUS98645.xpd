@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=SOCOM: Fireteam Bravo 2
+Size=42615
+Code=UCUS98645
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98645/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCUS98645/gshare.drm

@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Hot Pixel
+Size=8060
+Code=ULED90025
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULED90025/EBOOT.PBP

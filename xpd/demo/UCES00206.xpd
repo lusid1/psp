@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=World Tour Soccer 2 Demo
+Size=20600
+Code=UCES00206
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCES00206/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCES00206/DATA.DRM

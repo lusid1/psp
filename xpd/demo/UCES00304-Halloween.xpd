@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco Halloween
+Size=8228
+Code=UCES00304-Halloween
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCES00304-Halloween/EBOOT.PBP

@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Medal of Honor Heroes Part 1 of 2
+Size=26824
+Code=ULED90008
+NPage=http://apps.curtrostudios.com/pspdemos/xpd/more/ULED90008.xpd
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULED90008/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/ULED90008/mohdemo.drm
