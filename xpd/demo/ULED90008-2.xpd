@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Medal of Honor Heroes Part 2 of 2
+Size=26824
+Code=ULED90008
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULED90008/manifest.drm
+A=http://archive.org/download/PSPDemoArchive/ULED90008/mohdemo.drm
