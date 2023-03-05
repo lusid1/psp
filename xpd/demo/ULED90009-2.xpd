@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=TOCA Race Driver 3 Demo Part 2
+Size=22842
+Code=ULED90009
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULED90009/manifest.drm
+A=http://archive.org/download/PSPDemoArchive/ULED90009/rd3demo.drm
