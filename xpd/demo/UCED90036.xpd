@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Smash Court Tennis 3 Demo
+Size=16584
+Code=UCED90036
+
+[File]
+C=http://apps.curtrostudios.com/pspdemos/UCED90036/EBOOT.PBP
+A=http://apps.curtrostudios.com/pspdemos/UCED90036/DATADRM.BIN
