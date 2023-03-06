@@ -6,6 +6,13 @@
 #xpd files will be placed in that directory
 #current supports up to 8 files per game directory
 #
+#Translating eboot descriptions
+#place a file named descriptions.txt in directory from which the tool is run
+#containing a list of game codes and descriptions:
+# UCJS90019=English Title Of Game
+#
+
+
 
 #urlbase is the http path to the folder containing the game folders
 urlbase="http://archive.org/download/PSPDemoArchive"
@@ -54,6 +61,10 @@ size=$(($Fsize+$Asize))
 size=$(($size/1024))
 
 cd "$curr"
+
+#If CODE is found in descriptions.txt override the sfo description with the translated one
+desceng=$(cat descriptions.txt | grep "$code" | cut -d'=' -f2- | sed -n "1p"| tr -d '\n' | tr -d '\r')
+if [ "X$desceng" != "X" ]; then desc="$desceng"; fi
 
 y=1
 if [ "X$FName" == "X" ]; then exit;fi

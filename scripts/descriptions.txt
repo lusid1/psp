@@ -1,0 +1,2 @@
+#For storing translated descriptions
+ULJM05469=Hello Kitty no Happy Accessory
