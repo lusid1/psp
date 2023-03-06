@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=ASTO2 Demo Ver. 
+Size=15692
+Code=ULKS46142
+FName=EBOOT.PBP
+AName=ASTO.DRM
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULKS46142/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/ULKS46142/ASTO.DRM
+
