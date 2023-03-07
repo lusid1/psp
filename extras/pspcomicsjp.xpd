@@ -1,0 +1,10 @@
+[Info]
+EID=adp#
+Desc=Digital Comics Reader (jp) 
+Size=1562
+Code=NPJW00001
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJW00001/EBOOT.PBP
+
