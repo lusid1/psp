@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Happy Go Lucky!! 
+Size=103364
+Code=NPJH90115
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90115/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90115/DOCUMENT.DAT
+

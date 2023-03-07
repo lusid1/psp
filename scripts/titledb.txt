@@ -8,6 +8,10 @@ NPJG90069 Everybody's Sukkiri #5
 NPJH90090 The Akuma Hunters - Exorsister
 NPJH90081 Hitman Reborn Tag 
 NPJW00001 Digital Comics Reader (jp)
+NPJG90059 Hot Shots Tennis Portable [DEMO]
+NPJH90061 Katekyo Hitman Reborn! Battle Arena 2 Spirit Burst Trial
+NPJH90115 Happy Go Lucky!!
+ULES00856 Go!Messenger
 
 Playstation Title IDs compilation
 ---------------------------------
