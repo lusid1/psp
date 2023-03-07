@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=DRAGON BALL® Z Tenkaichi Tag Team [PSP] 
+Size=53494
+Code=NPEH90042
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEH90042/EBOOT.PBP
+
