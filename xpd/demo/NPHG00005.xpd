@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=echochrome [Demo] [PSP] 
+Size=3777
+Code=NPHG00005
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPHG00005/EBOOT.PBP
+
