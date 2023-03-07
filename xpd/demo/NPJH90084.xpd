@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Gladiator Begins [Demo] [PSP] 
+Size=117060
+Code=NPJH90084
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90084/EBOOT.PBP
+
