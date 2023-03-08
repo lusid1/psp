@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco (TGS2006 Demo) 
+Size=8651
+Code=UCJS10041
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCJS10041-3/EBOOT.PBP
+

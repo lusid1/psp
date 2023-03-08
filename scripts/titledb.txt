@@ -12,6 +12,26 @@ NPJG90059 Hot Shots Tennis Portable [DEMO]
 NPJH90061 Katekyo Hitman Reborn! Battle Arena 2 Spirit Burst Trial
 NPJH90115 Happy Go Lucky!!
 ULES00856 Go!Messenger
+#
+NPHG90001-4 LocoRoco (Christmas Demo)
+NPJG90001-4 LocoRoco (Christmas Demo)
+NPJG90002-5 LocoRoco (Christmas Demo)
+NPJH90134 Lord of Arcana 
+UCAS40063-1 LocoRoco Downloadable Demo
+UCAS40063-2 LocoRoco (Halloween Demo)
+UCED90007-4 LocoRoco (Christmas Demo) 
+UCES00304-1 LocoRoco Downloadable Demo
+UCES00304-2 LocoRoco (Halloween Demo)
+UCJS05232 Lumines II 
+UCJS10041-1 LocoRoco Downloadable Demo
+UCJS10041-3 LocoRoco (TGS2006 Demo)
+UCKS45020-1 LocoRoco Downloadable Demo
+UCKS45020-2 LocoRoco (Halloween Demo)
+UCKS45020-4 LocoRoco (Christmas Demo) [KR]
+UCUS98662-1 LocoRoco Downloadable Demo
+UCUS98662-2 LocoRoco (Halloween Demo)
+UCUS98662-4 LocoRoco (Christmas Demo)
+
 
 Playstation Title IDs compilation
 ---------------------------------

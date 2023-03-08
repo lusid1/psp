@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco (Christmas Demo) [KR] 
+Size=7885
+Code=UCKS45020
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCKS45020-4/EBOOT.PBP
+

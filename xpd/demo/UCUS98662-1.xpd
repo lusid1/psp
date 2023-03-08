@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco Downloadable Demo 
+Size=7997
+Code=UCUS98662
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98662-1/EBOOT.PBP
+

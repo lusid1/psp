@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco Downloadable Demo 
+Size=7769
+Code=UCKS45020
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCKS45020-1/EBOOT.PBP
+

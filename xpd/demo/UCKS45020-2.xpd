@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco (Halloween Demo) 
+Size=8003
+Code=UCKS45020
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCKS45020-2/EBOOT.PBP
+

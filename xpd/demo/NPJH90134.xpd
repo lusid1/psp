@@ -1,9 +1,12 @@
 [Info]
 EID=gdp#
-Desc=Lord of Arcana
-Size=101236
+Desc=Lord of Arcana  
+Size=101234
 Code=NPJH90134
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
 
 [File]
 C=http://archive.org/download/PSPDemoArchive/NPJH90134/EBOOT.PBP
 A=http://archive.org/download/PSPDemoArchive/NPJH90134/DOCUMENT.DAT
+
