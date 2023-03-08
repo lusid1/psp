@@ -31,6 +31,19 @@ UCKS45020-4 LocoRoco (Christmas Demo) [KR]
 UCUS98662-1 LocoRoco Downloadable Demo
 UCUS98662-2 LocoRoco (Halloween Demo)
 UCUS98662-4 LocoRoco (Christmas Demo)
+#
+ULJM91017 Shin Sangoku Musou: Multi Raid
+#
+NPJG90100 Patapon 3 Demo
+NPJH90034 Onore no Shinzuru Michi wo Yuke
+NPJH90092 Misshitsu no Sacrifice Trial 
+NPJH90122 Tales of Phantasia Cross Edition
+NPJH90273 I'm A Manga Artist Girl
+NPJH90311 Toriko Gourmet Survival 2 Demo
+ULJM91014 Phantasy Star Portable
+ULJS00233 R TYPE Tactics II Operation Bitter Chocolate demo
+ULJS00233B R TYPE Tactics II Operation Bitter Chocolate demo 2
+ULJS00233C R TYPE Tactics II Operation Bitter Chocolate demo 3
 
 
 Playstation Title IDs compilation
@@ -5771,21 +5784,21 @@ NPJH90059 Narisokonai Elyutan [Demo] [PSP]
 ULUS10349 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 2: The Phantom Fortress [PSP]
 ULUS10299 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes [PSP]
 ULES01306 NARUTO SHIPPUDEN™: Akatsuki Rising [PSP]
-NPUH90095 NARUTO SHIPPUDEN™: Kizuna Drive [Demo] [PSP]
-NPEH90049 NARUTO SHIPPUDEN™: Kizuna Drive [Demo] [PSP]
-NPJH90126 NARUTO SHIPPUDEN™: Kizuna Drive [Demo] [PSP]
-ULES01516 NARUTO SHIPPUDEN™: Kizuna Drive [PSP]
-ULJS00291 NARUTO SHIPPUDEN™: Kizuna Drive [PSP]
-ULUS10571 NARUTO SHIPPUDEN™: Kizuna Drive [PSP]
-ULJS00236 NARUTO SHIPPUDEN™: Narutimate Accel 3 [PSP]
-NPEH90038 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [Demo] [PSP]
-NPUH90078 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [Demo] [PSP]
-NPJH90113 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [Demo] [PSP]
-ULES01407 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [PSP]
-ULUS10518 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [PSP]
-NPJH90205 NARUTO SHIPPUDEN™: Ultimate Ninja Impact [Demo] [PSP]
-ULUS10582 NARUTO SHIPPUDEN™: Ultimate Ninja Impact [PSP]
-NPJH50435 NARUTO SHIPPUDEN™: Ultimate Ninja Impact [PSP]
+NPUH90095 NARUTO SHIPPUDEN™: Kizuna Drive [Demo]
+NPEH90049 NARUTO SHIPPUDEN™: Kizuna Drive [Demo]
+NPJH90126 NARUTO SHIPPUDEN™: Kizuna Drive [Demo]
+ULES01516 NARUTO SHIPPUDEN™: Kizuna Drive
+ULJS00291 NARUTO SHIPPUDEN™: Kizuna Drive
+ULUS10571 NARUTO SHIPPUDEN™: Kizuna Drive
+ULJS00236 NARUTO SHIPPUDEN™: Narutimate Accel 3
+NPEH90038 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [Demo]
+NPUH90078 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [Demo]
+NPJH90113 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [Demo]
+ULES01407 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3
+ULUS10518 NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3
+NPJH90205 NARUTO SHIPPUDEN™: Ultimate Ninja Impact [Demo]
+ULUS10582 NARUTO SHIPPUDEN™: Ultimate Ninja Impact
+NPJH50435 NARUTO SHIPPUDEN™: Ultimate Ninja Impact
 BLUS30200 NARUTO SHIPPUDEN™: Ultimate Ninja® STORM
 BLES00371 NARUTO SHIPPUDEN™: Ultimate Ninja® STORM
 BLAS50094 NARUTO SHIPPUDEN™: Ultimate Ninja® STORM
@@ -6443,8 +6456,8 @@ NPEF00085 Peter Pan: Adventures In Never Land [PSOne]
 ULUS10463 Petz: Dogz Family [PSP]
 NPUH90024 Petz Saddle Club [Demo] [PSP]
 NPJD00028 Phantasy Star Complete Collection [PS2]
-NPJH90062 Phantasy Star Portable 2 [Demo] [PSP]
-NPUH90081 Phantasy Star Portable 2 [Demo] [PSP]
+NPJH90062 Phantasy Star Portable 2 [Demo]
+NPUH90081 Phantasy Star Portable 2 [Demo]
 NPJH50043 Phantasy Star Portable 2 [PSP]
 ULUS10529 Phantasy Star Portable 2 [PSP]
 ULES01439 Phantasy Star Portable 2 [PSP]
@@ -6514,8 +6527,8 @@ NPJB00003 PixelJunk™ Monsters
 NPJN00001 PixelJunk™ Monsters Soundtrack
 NPHB00025 PixelJunk™ Monsters [Demo]
 NPEG90015 PixelJunk™ Monsters [Demo] [PSP]
-NPJH90072 PixelJunk™ Monsters Deluxe [Demo] [PSP]
-NPUG70057 PixelJunk™ Monsters Deluxe [Demo] [PSP]
+NPJH90072 PixelJunk™ Monsters Deluxe [Demo]
+NPUG70057 PixelJunk™ Monsters Deluxe [Demo]
 NPUG80248 PixelJunk™ Monsters Deluxe [PSP]
 UCUS98739 PixelJunk™ Monsters Deluxe [PSP]
 NPEG00017 PixelJunk™ Monsters Deluxe [PSP]
@@ -10305,8 +10318,8 @@ NPHH00024 YUSHA30: Speed RPG "YUSHA30" [Demo] [PSP]
 NPJY90007 Yuusha 30: Princess 30
 NPJG90009 Yuusha no Kuse ni Namaiki [Demo] [PSP]
 NPJG90025 Yuusha no Kuse ni Namaikida Or 2 [Demo] [PSP]
-NPJH90024 Yuusha: A 30 second RPG [Demo] [PSP]
-NPJH90027 Yuusha: A 30 second RPG [Demo] [PSP]
+NPJH90024 Yuusha: A 30 second RPG [Demo]
+NPJH90027 Yuusha: A 30 second RPG [Demo]
 NPJH90026 Yuusha: A 30 second RPG [Demo] 2 for PSP
 BLJS10195 Z/X Zekkai no Crusade TCG Edition
 ULUS10559 Z.H.P. Unlosing Ranger vs. Darkdeath Evilman [PSP]

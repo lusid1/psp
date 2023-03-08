@@ -1,0 +1,13 @@
+[Info]
+EID=gdp#
+Desc=Shin Sangoku Musou: Multi Raid (2 of 3)
+Size=1466
+Code=ULJM91017
+FName=DATA0001
+AName=DATA0002
+NPage=http://archive.org/download/PSPDemoArchive/xpd/ULJM91017-3.xpd
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJM91017/DATA0001
+A=http://archive.org/download/PSPDemoArchive/ULJM91017/DATA0002
+

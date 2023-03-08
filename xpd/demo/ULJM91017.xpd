@@ -1,0 +1,13 @@
+[Info]
+EID=gdp#
+Desc=Shin Sangoku Musou: Multi Raid (1 of 3)
+Size=1466
+Code=ULJM91017
+FName=EBOOT.PBP
+AName=DATA0000
+NPage=http://archive.org/download/PSPDemoArchive/xpd/ULJM91017-2.xpd
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJM91017/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/ULJM91017/DATA0000
+
