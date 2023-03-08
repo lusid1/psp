@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Space Invaders Extreme [PSP] 
+Size=5260
+Code=ULJM05315
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJM05315/EBOOT.PBP
+

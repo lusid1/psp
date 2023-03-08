@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Phantasy Star Portable 2 [Demo] 
+Size=361878
+Code=NPJH90062
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90062/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90062/DOCUMENT.DAT
+

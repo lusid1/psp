@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Tales of Phantasia Cross Edition 
+Size=56505
+Code=NPJH90122
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90122/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90122/DOCUMENT.DAT
+

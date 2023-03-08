@@ -44,7 +44,8 @@ ULJM91014 Phantasy Star Portable
 ULJS00233 R TYPE Tactics II Operation Bitter Chocolate demo
 ULJS00233B R TYPE Tactics II Operation Bitter Chocolate demo 2
 ULJS00233C R TYPE Tactics II Operation Bitter Chocolate demo 3
-
+#
+NPJG90057 rOOm for PlayStation Portable 
 
 Playstation Title IDs compilation
 ---------------------------------

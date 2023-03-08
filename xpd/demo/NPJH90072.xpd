@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=PixelJunk™ Monsters Deluxe [Demo] 
+Size=12792
+Code=NPJH90072
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90072/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90072/DOCUMENT.DAT
+
