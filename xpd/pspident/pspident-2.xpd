@@ -1,0 +1,13 @@
+[Info]
+EID=gdp#
+Desc=PSPIdent 0.75 (2 of 4)
+Size=100
+Code=pspident
+FName=kumdman.prx
+AName=README_RU.txt
+NPage=http://psp.lusidgames.com/xpd/pspident/pspident-3.xpd
+
+[File]
+C=http://psp.lusidgames.com/xpd/pspident/kumdman.prx
+A=http://psp.lusidgames.com/xpd/pspident/README_RU.txt
+
