@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=PSP Depackager v3
+Size=24
+Code=depackager
+FName=EBOOT.PBP
+
+
+[File]
+C=http://psp.lusidgames.com/xpd/depackager/EBOOT.PBP
+
+
