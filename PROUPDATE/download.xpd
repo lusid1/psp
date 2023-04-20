@@ -1,9 +1,0 @@
-[Info]
-EID=gdp#
-Desc=PROUPDATE 661_PRO-C2_14-02-2015
-Size=534
-Code=PROUPDATE
-FName=EBOOT.PBP
-
-[File]
-C=HTTP://psp.lusidgames.com/PROUPDATE/EBOOT.PBP

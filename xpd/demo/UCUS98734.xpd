@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Patapon 2
+Size=101559
+Code=UCUS98734
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98734/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCUS98734/DOCUMENT.DAT

@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Moto GP
+Size=7890
+Code=UCES00373
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCES00373/EBOOT.PBP

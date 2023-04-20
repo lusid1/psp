@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=ESRB Video Game Ratings Guide 
+Size=45023
+Code=NPUW00003
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPUW00003/EBOOT.PBP
+

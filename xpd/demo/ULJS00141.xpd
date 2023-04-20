@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Ikuze! Gen-San: Yuuyake Daiku Monogatari [PSP] 
+Size=5598
+Code=ULJS00141
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJS00141/EBOOT.PBP
+

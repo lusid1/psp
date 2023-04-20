@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Patapon 3 Demo 
+Size=180485
+Code=NPJG90100
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90100/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJG90100/DOCUMENT.DAT
+

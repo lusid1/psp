@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Patapon 3
+Size=112236
+Code=NPJG90088
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90088/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJG90088/DOCUMENT.DAT

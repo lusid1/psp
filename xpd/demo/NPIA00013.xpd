@@ -1,0 +1,8 @@
+[Info]
+EID=adp#
+Desc=Sensme 1.50
+Size=14036
+Code=NPIA00013
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPIA00013/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPIA00013/SENSME.DAT

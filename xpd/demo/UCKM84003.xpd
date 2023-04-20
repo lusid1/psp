@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Personal Utility Disk
+Size=94344
+Code=UCKM84003
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCKM84003/EBOOT.PBP

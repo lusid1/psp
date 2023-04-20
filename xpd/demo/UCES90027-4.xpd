@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=GO! EDIT Part 4 of 4
+Size=81457
+Code=UCES90027
+
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCES90027/data_pt_pkb.drm
+A=http://archive.org/download/PSPDemoArchive/UCES90027/data_pt_pkh.drm

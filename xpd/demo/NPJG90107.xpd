@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Ore no shikabane o koete yuke Web-only trial
+Size=308672
+Code=NPJG90107
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90107/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJG90107/DOCUMENT.DAT

@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Yuusha: A 30 second RPG [Demo] 2 for PSP 
+Size=7210
+Code=NPJH90026
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90026/EBOOT.PBP
+

@@ -1,0 +1,11 @@
+[Info]
+EID=ddp#
+Desc=HUD v2.75
+Size=22
+Code=../../seplugins
+FName=hud-tim2001.cfg
+
+NPage=HTTP://psp.lusidgames.com/seplugins/hud/hud-go.prx.xpd
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/hud/hud-tim2001.cfg

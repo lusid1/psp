@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Half Minute Hero - MAOU30 [Demo] [PSP] 
+Size=5424
+Code=NPJH90025
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90025/EBOOT.PBP
+

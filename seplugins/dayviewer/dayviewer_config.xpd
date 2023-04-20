@@ -1,0 +1,10 @@
+[Info]
+EID=ddp#
+Desc=dayviewer_config.txt (XMB)
+Size=1
+Code=../../seplugins
+FName=dayviewer_config.txt
+
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/dayviewer/dayviewer_config.txt

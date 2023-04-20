@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=UMD Read and Verify
+Size=8362
+Code=UTST99205
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UTST99205/EBOOT.PBP

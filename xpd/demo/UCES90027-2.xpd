@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=GO! EDIT Part 2 of 4
+Size=81457
+Code=UCES90027
+NPage=http://psp.lusidgames.com/xpd/demo/UCES90027-3.xpd
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCES90027/data_es_pkb.drm
+A=http://archive.org/download/PSPDemoArchive/UCES90027/data_es_pkh.drm

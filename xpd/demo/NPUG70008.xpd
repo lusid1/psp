@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Wipeout Pulse Demo
+Size=14869
+Code=NPUG70008
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPUG70008/EBOOT.PBP

@@ -1,0 +1,13 @@
+[Info]
+EID=gdp#
+Desc=PSPIdent 0.75 (3 of 4)
+Size=100
+Code=pspident
+FName=README.txt
+AName=scrnshot_ef0.prx
+NPage=http://psp.lusidgames.com/xpd/pspident/pspident-4.xpd
+
+[File]
+C=http://psp.lusidgames.com/xpd/pspident/README.txt
+A=http://psp.lusidgames.com/xpd/pspident/scrnshot_ef0.prx
+

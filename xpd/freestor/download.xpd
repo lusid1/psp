@@ -7,5 +7,5 @@ AName=EBOOT.PBP
 FName=data.zip
 
 [File]
-A=http://psp.lusidgames.com/webinstaller/EBOOT.PBP
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
 C=http://psp.lusidgames.com/xpd/freestor/FREESTOR.zip

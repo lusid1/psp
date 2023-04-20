@@ -1,0 +1,16 @@
+#For storing translated descriptions
+ULJM05469=Hello Kitty no Happy Accessory
+NPJG90041=Bleach: Soul Carnival 2 Trial
+ULJM05393=Minna de Dokusho: Keatai Shousetsu Desu.
+NPEH90042=Dragon Ball Z: Tenkaichi Tag Team Demo 
+NPJH90081=Hitman Reborn Tag 
+NPJH90025=Half Minute Hero - MAOU30
+NPJG90070=100 Man Ton no BaraBara
+ULJM05393=Minna de Dokusho: Keitai Shousetsu Desuu 
+ULJM05352=Minna de Dokusho: Meisaku & Suiri & Kaidan & Bungaku 
+NPHG00005=echochrome
+NPJG90047_1=Everybody's Sukkiri #1
+NPJG90047_2=Everybody's Sukkiri #2
+NPJG90047_3=Everybody's Sukkiri #3
+NPJG90047_4=Everybody's Sukkiri #4
+NPJG90069=Everybody's Sukkiri #5

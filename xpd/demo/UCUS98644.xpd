@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=NBA '07
+Size=80420
+Code=UCUS98644
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98644/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCUS98644/NBADATA.DRM

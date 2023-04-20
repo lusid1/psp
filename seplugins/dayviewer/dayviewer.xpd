@@ -1,0 +1,11 @@
+[Info]
+EID=ddp#
+Desc=Dayviewer_XMB v7.1
+Size=22
+Code=../../seplugins
+FName=dayviewer.prx
+
+NPage=HTTP://psp.lusidgames.com/seplugins/dayviewer/dayviewer_config.xpd
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/dayviewer/dayviewer.prx

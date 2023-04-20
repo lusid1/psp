@@ -1,0 +1,12 @@
+[Info]
+EID=adp#
+Desc=Go!Messenger 
+Size=7522
+Code=ULES00856
+FName=EBOOT.PBP
+AName=DATA.DRM
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULES00856/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/ULES00856/DATA.DRM
+

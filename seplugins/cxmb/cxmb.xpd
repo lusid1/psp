@@ -1,0 +1,9 @@
+[Info]
+EID=ddp#
+Desc=CXMB Plugin - Universal Firmware Mod
+Size=24
+Code=../../seplugins/cxmb
+FName=cxmb.prx
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/cxmb/cxmb.prx

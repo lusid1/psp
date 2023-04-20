@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco (Christmas Demo) 
+Size=7901
+Code=UCJS10041
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90001-4/EBOOT.PBP
+

@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=God Eater: Burst [Demo] [PSP] 
+Size=186530
+Code=NPJH90167
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90167/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90167/DOCUMENT.DAT
+

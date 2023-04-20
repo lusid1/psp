@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Warhammer 40,000: Squad Command [Demo] 
+Size=6410
+Code=NPEH90001
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEH90001/EBOOT.PBP
+

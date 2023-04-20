@@ -1,0 +1,13 @@
+[Info]
+EID=gdp#
+Desc=Bleach: Soul Carnival 2 Trial (1 of 3)
+Size=21843
+Code=NPJG90041
+FName=EBOOT.PBP
+AName=cfc.dig
+NPage=http://archive.org/download/PSPDemoArchive/xpd/NPJG90041-2.xpd
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90041/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJG90041/cfc.dig
+

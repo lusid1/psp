@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Key[s]Tester 
+Size=377
+Code=Key(s)Tester_v41
+FName=EBOOT.PBP
+AName=krnkeys.prx
+
+[File]
+C=http://psp.lusidgames.com/xpd/Key(s)Tester_v41/EBOOT.PBP
+A=http://psp.lusidgames.com/xpd/Key(s)Tester_v41/krnkeys.prx
+

@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Sengoku Efuda Yuugi: Hototogisu Ran [PSP] 
+Size=5475
+Code=ULJS00159
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJS00159/EBOOT.PBP
+

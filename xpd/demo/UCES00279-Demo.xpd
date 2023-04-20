@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Killzone: Liberation
+Size=26095
+Code=UCES00279-Demo
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCES00279-Demo/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCES00279-Demo/KZL.DRM

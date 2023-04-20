@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Everybody's Sukkiri #2 
+Size=10931
+Code=NPJG90047_2
+FName=EBOOT.PBP
+AName=FILE.BDL
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90047_2/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJG90047_2/FILE.BDL
+

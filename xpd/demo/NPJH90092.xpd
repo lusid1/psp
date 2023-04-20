@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Misshitsu no Sacrifice Trial  
+Size=65534
+Code=NPJH90092
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90092/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90092/DOCUMENT.DAT
+

@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Hello Kitty no Happy Accessory 
+Size=5981
+Code=ULJM05469
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJM05469/EBOOT.PBP
+

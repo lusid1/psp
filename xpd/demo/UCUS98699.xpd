@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=NBA '08
+Size=73758
+Code=UCUS98699
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98699/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCUS98699/NBADATA.DRM

@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Exit [JP]
+Size=8154
+Code=ULJM05161
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJM05161/EBOOT.PBP

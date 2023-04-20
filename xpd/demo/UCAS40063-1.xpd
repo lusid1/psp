@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco Downloadable Demo 
+Size=7905
+Code=UCAS40063
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCAS40063-1/EBOOT.PBP
+

@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Phantasy Star Portable 
+Size=307557
+Code=ULJM91014
+FName=EBOOT.PBP
+AName=file.fpb
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJM91014/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/ULJM91014/file.fpb
+

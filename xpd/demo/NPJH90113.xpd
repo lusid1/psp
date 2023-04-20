@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=NARUTO SHIPPUDEN™: Ultimate Ninja Heroes 3 [Demo] 
+Size=43437
+Code=NPJH90113
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90113/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90113/DOCUMENT.DAT
+

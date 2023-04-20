@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=The Akuma Hunters - Exorsister 
+Size=23893
+Code=NPJH90090
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90090/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90090/DOCUMENT.DAT
+

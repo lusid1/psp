@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Castle Rustle [Demo]
+Size=16100
+Code=NPEH90045
+FName=EBOOT.PBP
+
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEH90045/EBOOT.PBP
+
+

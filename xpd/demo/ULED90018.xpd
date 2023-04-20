@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Mercury Meltdown [Demo] [PSP] 
+Size=6635
+Code=ULED90018
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULED90018/EBOOT.PBP
+

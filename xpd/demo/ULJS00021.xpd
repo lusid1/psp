@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Bounty Hounds
+Size=8192
+Code=ULJS00021
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJS00021/EBOOT.PBP

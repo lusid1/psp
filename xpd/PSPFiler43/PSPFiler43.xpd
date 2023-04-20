@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=PSP Filer 4.3
+Size=828
+Code=PSPFiler43
+FName=EBOOT.PBP
+AName=filer.ini
+
+[File]
+C=http://psp.lusidgames.com/xpd/PSPFiler43/EBOOT.PBP
+A=http://psp.lusidgames.com/xpd/PSPFiler43/filer.ini
+

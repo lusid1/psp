@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Numblast Demo
+Size=27655
+Code=NPEG90014
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPEG90014/EBOOT.PBP

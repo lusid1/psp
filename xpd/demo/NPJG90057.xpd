@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=M for PlayStation 
+Size=14976
+Code=NPJG90057
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90057/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJG90057/DOCUMENT.DAT
+

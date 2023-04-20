@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=Killzone: Liberation [PSP] 
+Size=26100
+Code=UCUS98646
+FName=EBOOT.PBP
+AName=KZL.DRM
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98646-Demo/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/UCUS98646-Demo/KZL.DRM
+

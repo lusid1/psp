@@ -1,0 +1,11 @@
+[Info]
+EID=ddp#
+Desc=prxshot_png_mod (1 of 3)
+Size=22
+Code=../../seplugins
+FName=prxshot_png_mod.prx
+
+NPage=HTTP://psp.lusidgames.com/seplugins/prxshot_png_mod/prxshot_png_mod.ini.xpd
+
+[File]
+C=HTTP://psp.lusidgames.com/seplugins/prxshot_png_mod/prxshot_png_mod.prx

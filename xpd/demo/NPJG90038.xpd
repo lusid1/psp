@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=Remote agent - demo-
+Size=218679
+Code=NPJG90038
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJG90038/EBOOT.PBP

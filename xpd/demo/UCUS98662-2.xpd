@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=LocoRoco (Halloween Demo) 
+Size=8200
+Code=UCUS98662
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/UCUS98662-2/EBOOT.PBP
+

@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=TOCA Race Driver 3 Demo Part 1
+Size=22842
+Code=ULED90009
+NPage=http://psp.lusidgames.com/xpd/demo/ULED90009-2.xpd
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULED90009/EBOOT.PBP

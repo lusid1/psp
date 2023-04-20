@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=Otsugea Uranai na Desu. [PSP] 
+Size=5670
+Code=ULJM05409
+FName=EBOOT.PBP
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/ULJM05409/EBOOT.PBP
+

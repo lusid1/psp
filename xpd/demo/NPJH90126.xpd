@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=NARUTO SHIPPUDEN™: Kizuna Drive [Demo] 
+Size=34620
+Code=NPJH90126
+FName=EBOOT.PBP
+AName=DOCUMENT.DAT
+
+[File]
+C=http://archive.org/download/PSPDemoArchive/NPJH90126/EBOOT.PBP
+A=http://archive.org/download/PSPDemoArchive/NPJH90126/DOCUMENT.DAT
+
