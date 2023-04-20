@@ -3,12 +3,12 @@
 # ./psp/scripts/arkupdate.sh
 #
 mv ARK4.zip ARK4.zip.old
-wget https://github.com/PSP-Archive/ARK-4/releases/latest/download/ARK.zip
-if ! (cmp ARK.zip ARK.zip.old); then 
+wget -O ARK4.zip https://github.com/PSP-Archive/ARK-4/releases/latest/download/ARK.zip
+if ! (cmp ARK4.zip ARK4.zip.old); then 
   rm -rf ark4
   rm -rf PSP
   rm data.zip
-  unzip ARK.zip -d ark4
+  unzip ARK4.zip -d ark4
   mkdir -p PSP/GAME/ARK_Live
   mkdir -p PSP/SAVEDATA/ARK_01234
   cp ark4/ARK_Live/* PSP/GAME/ARK_Live
