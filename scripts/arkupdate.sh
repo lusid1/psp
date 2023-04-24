@@ -4,6 +4,7 @@
 #
 mv ARK4.zip ARK4.zip.old
 wget -O ARK4.zip https://github.com/PSP-Archive/ARK-4/releases/latest/download/ARK.zip
+wget -O ARK4.zip https://github.com/PSP-Archive/ARK-4/releases/latest/download/ARK4.zip
 if ! (cmp ARK4.zip ARK4.zip.old); then 
   rm -rf ark4
   rm -rf PSP
