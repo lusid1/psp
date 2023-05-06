@@ -1,0 +1,12 @@
+[Info]
+EID=gdp#
+Desc=HellCat Recovery Flasher 1.65
+Size=2
+Code=RECOVERY
+FName=EBOOT.PBP
+
+
+[File]
+C=http://psp.lusidgames.com/xpd/hellcat/EBOOT.PBP
+
+
