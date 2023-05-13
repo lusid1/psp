@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=ARK_newIPL
+Size=534
+Code=ARK_newIPL
+FName=EBOOT.PBP
+NPage=HTTP://psp.lusidgames.com/cfw/ARK_newIPL/download2.xpd
+
+[File]
+C=HTTP://psp.lusidgames.com/cfw/ARK_newIPL/EBOOT.PBP
