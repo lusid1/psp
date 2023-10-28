@@ -19,6 +19,10 @@ if ! (cmp ARK4.zip ARK4.zip.old); then
   cd psp
     git pull
     git add cfw/ark4-latest/data.zip
+    git add cfw/ark_cipl/EBOOT.PBP
+    git add cfw/ark_cipl/ipl_update.prx
+    git add cfw/ark_cipl/kbooti_update.prx
+    git add cfw/ark_cipl/kpspident.prx
     git commit -m "Ark4 update automation"
     git push
   cd ..
