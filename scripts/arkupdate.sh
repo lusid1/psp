@@ -16,6 +16,7 @@ if ! (cmp ARK4.zip ARK4.zip.old); then
   cp ark4/ARK_01234/* PSP/SAVEDATA/ARK_01234
   zip -r data.zip PSP
   cp data.zip psp/cfw/ark4-latest/
+  cp ark4/PSP/ARK_cIPL/* psp/cfw/ark_cipl/
   cd psp
     git pull
     git add cfw/ark4-latest/data.zip
