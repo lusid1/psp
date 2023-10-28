@@ -12,8 +12,12 @@ if ! (cmp ARK4.zip ARK4.zip.old); then
   unzip ARK4.zip -d ark4
   mkdir -p PSP/GAME/ARK_Loader
   mkdir -p PSP/SAVEDATA/ARK_01234
+  mkdir -p PSP/GAME/ARK_Full_Installer
+  mkdir -p PSP/GAME/ARK_cIPL
   cp ark4/ARK_Loader/* PSP/GAME/ARK_Loader
   cp ark4/ARK_01234/* PSP/SAVEDATA/ARK_01234
+  cp ark4/PSP/ARK_Full_Installer/* PSP/GAME/ARK_Full_Installer
+  cp ark4/PSP/ARK_cIPL/* PSP/GAME/ARK_cIPL
   zip -r data.zip PSP
   cp data.zip psp/cfw/ark4-latest/
   cp ark4/PSP/ARK_cIPL/* psp/cfw/ark_cipl/
