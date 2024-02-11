@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=PSP Update ver 6.20 RFP Files
+Size=32581
+Code=Code=../../
+FName=PSP1000_620-OFW.rfp
+AName=PSP2000_620-OFW.rfp
+
+[File]
+C=http://psp.lusidgames.com/xpd/hellcat/PSP1000_620-OFW.rfp
+A=http://psp.lusidgames.com/xpd/hellcat/PSP2000_620-OFW.rfp
