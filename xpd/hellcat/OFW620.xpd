@@ -2,7 +2,7 @@
 EID=gdp#
 Desc=PSP Update ver 6.20
 Size=32581
-Code=../../
+Code=../..
 FName=620.PBP
 
 [File]
