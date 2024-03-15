@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=PSPIdent 3.1 
+Size=100
+Code=pspident
+FName=EBOOT.PBP
+
+[File]
+C=http://psp.lusidgames.com/xpd/pspident/EBOOT.PBP
+
+
