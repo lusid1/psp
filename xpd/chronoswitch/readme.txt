@@ -1,48 +1,51 @@
 Chronoswitch Downgrader
-https://lolhax.org
 
-[VERSION 7.0]
-    -> Added support for Infinity
+Chronoswitch is a downgrader for the Playstation Portable (PSP).
+Installation
 
-[VERSION 6.1]
-    -> Added support for 11g units to 6.60
+Download and extract the latest version from the releases on this github page. Copy the PSP folder from the extracted output to your memory stick. You will need the firmware update for version you wish to downgrade to. If you want to downgrade to 6.60, you will need the 6.60 official update. If you're downgrading a PSPgo, make sure you download the official firmware appropriate for that device.
 
-[VERSION 6]
-    -> Added support for 6.61
+Copy the official firmware update to PSP/GAME/UPDATE/EBOOT.PBP on your memory stick. If you're using a PSPgo, make sure this copied to the internal storage instead.
 
-[VERSION 5]
-    -> Added support for 09g units to 6.20
+The downgrader is "signed", and can be launched without having a custom firmware installed. Once you run the application, follow the on-screen instructions.
+Changelog
+Version 7.2
 
-[What does it do?]
-Allows users who are incontent with their firmware to downgrade to 6.20 using the Sony Updater.
+    Replaced 'factory firmware limitation', which prevented certain PSPs from being downgradable at all or limited them from being downgraded to certain firmwares they theoretically support.
+    This fixes most cases where an IDXFFFFFFFF or CAAFFFFFCF7 error could appear.
+    Chronoswitch now detects your PSP's motherboard alongside its model and allows flashing all firmwares (5.00+) that are supported by it.
+    Removed support for downgrading 09g units below 6.30.
 
-[How do I use it?]
-Copy the "PSP" folder to your PSP. The downgrader is "signed" and can be launched from OFW XMB. You need to copy the 6.20 update to PSP/GAME/UPDATE/EBOOT.PBP and for PSPgo it must be the eflash it is placed on. After setup run the downgrader and follow the onscreen instructions.
+Version 7.1
 
-[What does it technically do?]
-6.20-6.35: It uses the utility/power exploit to gain kernel access and reboots into the updater with a special PRX running. This PRX uses the pspdecrypt functionality to decrypt the updater PRX when needed. This allows the updater to boot in the newer firmwares.
-6.38/6.39: It uses my http_storage exploit to gain kernel access.  Basically, http_storage has a vulnerability in it, where I can write -1 to anywhere in memory.
-6.60: Uses sceNetMPulldown to gain kernel access.
-6.61: same as 6.60 (only certloader kexploit is patched in 6.61)
+    Added experimental support for 07g units on 6.6x.
 
-[I'm a dev, sup?]
-Source code included in package.
+Version 7.0
 
-[Credits]
-Davee - legend. Originally made 6.35/6.31 downgrader
-some1 - legend. 6.38/6.39/6.60 support.
-bbtgp - legend. Continued updates to psardumper (pspdecrypt) and the signing application "prxEncrypter".
-coyotebean - legend. Coninuted updates to psardumper (pspdecrypt) and large influence and research regarding cryptographics.
-kgsws - legend. First application signed and method released.
-Silverspring - legend. Lots and lots of info on KIRK where we'd still be in the dark without.
-Bubbletune - BTCNF injection code and bits and bobs here ;D
-qwikrazor87 - 6.61/11g support.
+    Added support for Infinity.
 
-[READ]
-You run the application at your OWN risk. I am not help accountable if you PSP fucks up.
+Version 6.1
 
-[Open Source]
-Chronoswitch is open source! Get the source here: https://bitbucket.org/DaveeFTW/
+    Added support for downgrading 11g units to 6.60.
 
-[Twitter]
-Follow me on twitter: @DaveeFTW
+Version 6.0
+
+    Added support for 6.61.
+
+Version 5.0
+
+    Added support for downgrading 09g units to 6.20.
+
+Thanks to
+
+    some1
+    bbtgp
+    coyotebean
+    kgsws
+    Silverspring
+    Bubbletune
+    qwikrazor87
+    The Zett
+
+Socials
+Follow me on Twitter @DaveeFTW, and check out my blog.
