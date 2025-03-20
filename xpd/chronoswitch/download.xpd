@@ -1,12 +1,10 @@
 [Info]
 EID=gdp#
-Desc=Chronoswitch 7.6 (krazynez)
+Desc=Chronoswitch 7.6.5 (krazynez)
 Size=441
 Code=chronoswitch
 FName=EBOOT.PBP
-AName=readme.txt
 
 [File]
 C=http://psp.lusidgames.com/xpd/chronoswitch/EBOOT.PBP
-A=http://psp.lusidgames.com/xpd/chronoswitch/readme.txt
 
