@@ -1,9 +1,11 @@
 [Info]
-EID=ddp#
+EID=gdp#
 Desc=PSP Update ver 6.61 for DCArk
 Size=32581
 Code=../..
-FName=./661.PBP
+FName=EBOOT.PBP
+AName=661.PBP
 
 [File]
 C=http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP
+A=http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP
