@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=Key(s)Tester v5
+Size=110
+Code=keystester
+FName=EBOOT.PBP
+
+[File]
+C=http://psp.lusidgames.com/xpd/keystester_v5/EBOOT.PBP
+
+
