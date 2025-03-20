@@ -19,7 +19,7 @@ if ! (cmp ARK4.zip ARK4.zip.old); then
   cp ark4/ARK_01234/* PSP/SAVEDATA/ARK_01234
   cp ark4/PSP/ARK_Full_Installer/* PSP/GAME/ARK_Full_Installer
   cp ark4/PSP/ARK_cIPL/* PSP/GAME/ARK_cIPL
-  cp ark4/PSP/ARK_DC/* PSP/GAME/ARK_DC
+  cp -r ark4/PSP/ARK_DC/* PSP/GAME/ARK_DC
   zip -r data.zip PSP
   cp data.zip psp/cfw/ark4-latest/
   cp ark4/PSP/ARK_cIPL/* psp/cfw/ark_cipl/
