@@ -2,7 +2,7 @@
 EID=ddp#
 Desc=PSP Update ver 6.61 for DCArk
 Size=32581
-Code=../..
+Code=../../
 FName=661.PBP
 
 [File]
