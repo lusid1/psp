@@ -22,7 +22,7 @@ if ! (cmp ARK4.zip ARK4.zip.old); then
   cp -r ark4/PSP/ARK_DC/* PSP/GAME/ARK_DC
   zip -r data.zip PSP
   cp data.zip psp/cfw/ark4-latest/
-  cp ark4/PSP/ARK_cIPL/* psp/cfw/ark_cipl/
+  #cp ark4/PSP/ARK_cIPL/* psp/cfw/ark_cipl/
   cp ark4/PSP/Infinity/EBOOT.PBP psp/cfw/infinity-2.0.5/standard/EBOOT.PBP
   cp ark4/PSP/Infinity/EBOOT_GO.PBP psp/cfw/infinity-2.0.5/pspgo/EBOOT.PBP 
   cd psp
