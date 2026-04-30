@@ -6,4 +6,5 @@ Code=../..
 FName=661.PBP
 
 [File]
-C=http://archive.org/download/PSP_System_Software_Update_Version_6.61/661.PBP
+#C=http://archive.org/download/PSP_System_Software_Update_Version_6.61/661.PBP
+C=http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP
