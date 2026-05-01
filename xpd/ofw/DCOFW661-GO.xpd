@@ -6,7 +6,7 @@ Code=../..
 FName=661GO.PBP
 
 [File]
-C=http://du01.psp.update.playstation.org/update/psp/image2/us/2014_1212_fd0f7d0798b4f6e6d32ef95836740527/EBOOT.PBP?0;CDN_Timeout=30;
+C=http://du01.psp.update.playstation.org/update/psp/image2/us/2014_1212_fd0f7d0798b4f6e6d32ef95836740527/EBOOT.PBP?0;CDN_Timeout=300;
 #C=http://dn721903.ca.archive.org/0/items/psp_ofw_firmwares/PSP%20Go/661go.PBP
 #C=http://archive.org/download/psp_ofw_firmwares/PSP%20Go/661go.PBP
 #C=http://du01.psp.update.playstation.org/update/psp/image2/us/2014_1212_fd0f7d0798b4f6e6d32ef95836740527/EBOOT.PBP
