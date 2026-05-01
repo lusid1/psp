@@ -3,7 +3,7 @@ EID=gdp#
 Desc=PSP Update ver 6.61 for DCArk
 Size=32581
 Code=../..
-FName=EBOOT.PBP
+FName=661.PBP
 #AName=661.PBP
 
 [File]
