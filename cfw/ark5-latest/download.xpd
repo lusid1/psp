@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=ARK5 Installer
+Size=2000
+Code=ARK5Install
+FName=EBOOT.PBP
+AName=data.zip
+
+[File]
+C=http://psp.lusidgames.com/cfw/ark5-latest/EBOOT.PBP
+A=http://psp.lusidgames.com/cfw/ark5-latest/data.zip
