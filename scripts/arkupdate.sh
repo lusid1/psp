@@ -8,7 +8,7 @@ rm ARK_UPDATE.zip
 wget -O ARK5.zip https://github.com/PSP-Arkfive/FasterARK/releases/download/latest/FasterARK_psp_full.zip
 
 if ! (cmp ARK5.zip psp/cfw/ark5-latest/data.zip); then
-  wget -O psp-updatelist.txt https://github.com/PSP-Arkfive/FasterARK/blob/main/Updater/Resources/psp-updatelist.txt
+  wget -O psp-updatelist.txt https://raw.githubusercontent.com/PSP-Arkfive/FasterARK/refs/heads/main/Updater/Resources/psp-updatelist.txt
   wget -O ARK_UPDATE.zip https://github.com/PSP-Arkfive/FasterARK/releases/download/latest/ARK_UPDATE.zip
   rm psp/cfw/ark5-latest/data.zip
   rm psp/ark5/EBOOT.PBP
