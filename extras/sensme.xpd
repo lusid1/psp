@@ -7,5 +7,7 @@ FName=EBOOT.PBP
 AName=SENSME.DAT
 
 [File]
-C=http://sensme.dl.playstation.net/sensme/01.50/EBOOT.PBP
-A=http://sensme.dl.playstation.net/sensme/01.50/SENSME.DAT
+#C=http://sensme.dl.playstation.net/sensme/01.50/EBOOT.PBP
+C=http://web.archive.org/web/20180701174858/http://sensme.dl.playstation.net/sensme/01.50/EBOOT.PBP
+#A=http://sensme.dl.playstation.net/sensme/01.50/SENSME.DAT
+A=http://web.archive.org/web/20180701174858/http://sensme.dl.playstation.net/sensme/01.50/SENSME.DAT
