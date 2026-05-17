@@ -5,5 +5,5 @@ Size=17406
 Code=NPIA09002
 
 [File]
-C=http://archive.org/download/PSPDemoArchive/NPIA09002/EBOOT.PBP
-
+#C=http://archive.org/download/PSPDemoArchive/NPIA09002/EBOOT.PBP
+C=http://psp.lusidgames.com/ms0/PSP/APP/NPIA09002/EBOOT.PBP
