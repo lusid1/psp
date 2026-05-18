@@ -5,4 +5,5 @@ Size=32581
 Code=UPDATE
 FName=EBOOT.PBP
 [File]
-C=http://archive.org/download/psp_ofw_firmwares/PSP%20Go/637go.PBP
+#C=http://archive.org/download/psp_ofw_firmwares/PSP%20Go/637go.PBP
+C=http://web.archive.org/web/20210414015442mp_/https://archive.midnightchannel.net/SonyPS/Firmware/download/d403726b95c3577c33195e491cd8c8a1/PSP_CRC[2d5a7e92]_FW[v6.37]_EBOOT.PBP
