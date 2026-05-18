@@ -5,4 +5,5 @@ Size=32581
 Code=UPDATE
 FName=EBOOT.PBP
 [File]
-C=http://archive.org/download/psp_ofw_firmwares/PSP%20Go/620go.PBP
+#C=http://archive.org/download/psp_ofw_firmwares/PSP%20Go/620go.PBP
+C=http://do01b.psp.update.playstation.org/update/psp/image2/us/2009_1119_ae20575ecff8380214e8c43eef466ca8/EBOOT.PBP

@@ -5,4 +5,4 @@ Size=32581
 Code=UPDATE
 FName=EBOOT.PBP
 [File]
-C=http://archive.org/download/psp_ofw_firmwares/PSP/501.PBP
+C=http://du01.psp.update.playstation.org/update/psp/image/us/2008_1022_46e66cef9ec8a63eb5af2df0a53e6b57/EBOOT.PBP
