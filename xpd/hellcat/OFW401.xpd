@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=PSP Update ver 4.01
+Size=32581
+Code=RECOVERY
+FName=401.PBP
+[File]
+#C=http://archive.org/download/psp_ofw_firmwares/PSP/500.PBP
+C=http://web.archive.org/web/20210414015450mp_/https://archive.midnightchannel.net/SonyPS/Firmware/download/c593abc023aa9b215710df6e263b3fff/PSP_CRC[a558890c]_FW[v4.01]_EBOOT.PBP
