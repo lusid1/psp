@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=PSP Update ver 1.50 for Ark-1.50
+Size=32581
+Code=../..
+FName=150.PBP
+
+[File]
+C=http://web.archive.org/web/20210414015519mp_/https://archive.midnightchannel.net/SonyPS/Firmware/download/e32eb27980ba8b291eb803e3397e4b24/PSP_CRC[f7bcf4ab]_FW[v1.50]_EBOOT.PBP
