@@ -6,4 +6,5 @@ Code=../..
 FName=620.PBP
 
 [File]
-C=http://archive.org/download/psp_ofw_firmwares/PSP/620.PBP
+#C=http://archive.org/download/psp_ofw_firmwares/PSP/620.PBP
+C=http://web.archive.org/web/20210414015538mp_/https://archive.midnightchannel.net/SonyPS/Firmware/download/16d8cacc0cdb00a2a6a8c1b77d7dd136/PSP_CRC[781481d9]_FW[v6.20]_EBOOT.PBP

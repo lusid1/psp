@@ -5,4 +5,5 @@ Size=32581
 Code=RECOVERY
 FName=500.PBP
 [File]
-C=http://archive.org/download/psp_ofw_firmwares/PSP/500.PBP
+#C=http://archive.org/download/psp_ofw_firmwares/PSP/500.PBP
+C=http://web.archive.org/web/20210414015554mp_/https://archive.midnightchannel.net/SonyPS/Firmware/download/60aa0356d4c66f589b71cfc9abc08713/PSP_CRC[a8a341b5]_FW[v5.00]_EBOOT.PBP

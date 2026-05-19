@@ -5,4 +5,5 @@ Size=32581
 Code=UPDATE
 FName=EBOOT.PBP
 [File]
-C=http://du01.psp.update.playstation.org/update/psp/image/us/2008_1120_41b80591c6024a278945f1cdd72aa892/EBOOT.PBP
+#C=http://du01.psp.update.playstation.org/update/psp/image/us/2008_1120_41b80591c6024a278945f1cdd72aa892/EBOOT.PBP
+C=http://web.archive.org/web/20210414015641mp_/https://archive.midnightchannel.net/SonyPS/Firmware/download/41b80591c6024a278945f1cdd72aa892/PSP_CRC[033796b1]_FW[v5.02]_EBOOT.PBP
