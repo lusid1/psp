@@ -2,21 +2,31 @@
 # run from the parent of the psp repo directory
 # ./psp/scripts/arkupdate.sh
 #
+
 rm ARK5.zip
 rm psp-updatelist.txt
 rm ARK_UPDATE.zip
 wget -O ARK5.zip https://github.com/PSP-Arkfive/FasterARK/releases/download/latest/FasterARK_psp_full.zip
 
 if ! (cmp ARK5.zip psp/cfw/ark5-latest/data.zip); then
+
+  # get the rest of the files
   wget -O psp-updatelist.txt https://raw.githubusercontent.com/PSP-Arkfive/FasterARK/refs/heads/main/Updater/Resources/psp-updatelist.txt
   wget -O ARK_UPDATE.zip https://github.com/PSP-Arkfive/FasterARK/releases/download/latest/ARK_UPDATE.zip
+  
+  # update the zip
   rm psp/cfw/ark5-latest/data.zip
-  rm psp/ark5/EBOOT.PBP
-  rm psp/ark5/psp-updatelist.txt
-
   cp ARK5.zip psp/cfw/ark5-latest/data.zip
+
+  # update the updater eboot
+  rm psp/ark5/EBOOT.PBP
   unzip -j ARK_UPDATE.zip PSP/GAME/UPDATE/EBOOT.PBP -d psp/ark5/
-  cp psp-updatelist.txt psp/ark5/psp-updatelist.txt
+
+  # update the updatelist
+  #rm psp/ark5/psp-updatelist.txt
+  #cp psp-updatelist.txt psp/ark5/psp-updatelist.txt
+
+  # publish the changes
   cd psp
     git pull
     git add -A
