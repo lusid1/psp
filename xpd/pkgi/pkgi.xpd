@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=PKGI
+Size=9592
+Code=PKGIINSTL
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/pkgi/pkgi.zip
