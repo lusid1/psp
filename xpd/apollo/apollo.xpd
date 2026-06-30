@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=Apollo Save Tool
+Size=7400
+Code=APOLLOINST
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/apollo/apollo.zip

@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=Pixel Button Tester
+Size=4000
+Code=PXLBTINST
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/psxlbuttontester/psxlbuttontester.zip
