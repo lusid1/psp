@@ -23,8 +23,8 @@ if ! (cmp ARK5.zip psp/cfw/ark5-latest/data.zip); then
   unzip -j ARK_UPDATE.zip PSP/GAME/UPDATE/EBOOT.PBP -d psp/ark5/
 
   # update the updatelist
-  #rm psp/ark5/psp-updatelist.txt
-  #cp psp-updatelist.txt psp/ark5/psp-updatelist.txt
+  rm psp/ark5/psp-updatelist.txt
+  cp psp-updatelist.txt psp/ark5/psp-updatelist.txt
 
   # publish the changes
   cd psp
