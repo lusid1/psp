@@ -1,7 +1,7 @@
 [Info]
 EID=gdp#
 Desc=FREESTOR
-Size=2187
+Size=2425
 Code=FREESTORINST
 AName=EBOOT.PBP
 FName=data.zip
