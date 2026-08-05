@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=themadump
+Size=49
+Code=themadump
+FName=EBOOT.PBP
+
+[File]
+C=http://psp.lusidgames.com/xpd/themadump/EBOOT.PBP

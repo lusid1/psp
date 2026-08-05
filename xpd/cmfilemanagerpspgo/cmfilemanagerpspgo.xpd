@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=CMFileManager for PSP Go
+Size=2634
+Code=CMFMGOINST
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/cmfilemanagerpspgo/CMFileManager-PSP-GO-M2.zip

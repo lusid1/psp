@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=64kformat
+Size=5453
+Code=64kformat
+FName=EBOOT.PBP
+
+[File]
+C=http://psp.lusidgames.com/xpd/64kformat/EBOOT.PBP

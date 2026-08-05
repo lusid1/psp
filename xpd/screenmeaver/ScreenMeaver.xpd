@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=ScreenMeaver
+Size=1638
+Code=SCMINST
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/screenmeaver/ScreenMeaver.zip

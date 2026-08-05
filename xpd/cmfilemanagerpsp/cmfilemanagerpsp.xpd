@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=CMFileManager for PSP
+Size=2634
+Code=CMFMINST
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/cmfilemanagerpsp/cmfilemanagerpsp.zip

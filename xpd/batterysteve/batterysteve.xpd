@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=BatterySteve
+Size=6092
+Code=BSINST
+AName=EBOOT.PBP
+FName=data.zip
+
+[File]
+A=http://psp.lusidgames.com/xpd/webinstaller/EBOOT.PBP
+C=http://psp.lusidgames.com/xpd/batterysteve/batterysteve.zip
